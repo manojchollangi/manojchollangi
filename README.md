@@ -7,7 +7,7 @@ Back End Developer,
  programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies ( Python), design (working closely with designers), front-end development (HTML5, CSS3, Javascript), database(Ms-SQL server,Mysql).
 
 
-![Visitor Count]
+
 
 Languages and Tools: 
 
