@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://www.linkedin.com/in/manoj-kumar-chollangi-35b518206/)
+[![Linkedin Badge]https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSFFifgYuQla3ZS%2FDZajCug%3D%3D(https://www.linkedin.com/in/manoj-kumar-chollangi-35b518206/)
 
 I'm
 Back End Developer,
